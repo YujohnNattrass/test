@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "mastra dev",
-    "build": "pnpm --filter @mastra/core build"
+    "build": "pnpm build"
   },
   "keywords": [],
   "author": "",
